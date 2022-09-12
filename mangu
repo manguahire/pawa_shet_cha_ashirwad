@@ -1,0 +1,6 @@
+#!/bin/sh
+
+
+aws s3api create-bucket --bucket chong-mangu --region us-east-1
+
+echo "pawa ne bola karneka toh karneka"
